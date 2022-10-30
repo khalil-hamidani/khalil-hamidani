@@ -20,6 +20,13 @@ no matter how small or large the product is.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+
+## **Additional Skills**:
+ [![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]([https://www.cprogramming.com](https://www.youtube.com/watch?v=8ybW48rKBME))
+ [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
+ [![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
+ [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
+ [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=8ybW48rKBME)
 <br />
 
 ---
