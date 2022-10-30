@@ -5,7 +5,7 @@
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khlilhamidani)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-hamidani-b77a94217/)
 
-I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to the success of the ordinary product. 
+I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to the success of the product. 
 While working on any product, I always make sure that whatever I'm building, it is going to solve issues and it's going to provide value 
 no matter how small or large the product is.
 
