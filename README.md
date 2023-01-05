@@ -34,6 +34,6 @@ no matter how small or large the product is.
 ---
 <!-- Feel free to visit my website **[]()** to explore some of my recent **projects** and find more about me. -->
 I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience 
-then feel free to **contact** me on my [Linkedin](www.linkedin.com/in/khalil-hamidani-b77a94217) .
+then feel free to **contact** me on my [Linkedin](www.linkedin.com/in/khalil-hamidani-b77a94217) profile.
 
 ---
