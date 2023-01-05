@@ -21,6 +21,7 @@ no matter how small or large the product is.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
+
 ## **Additional Skills**:
  [![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]([https://www.cprogramming.com](https://www.youtube.com/watch?v=8ybW48rKBME))
  [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
@@ -28,6 +29,7 @@ no matter how small or large the product is.
  [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
  [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=8ybW48rKBME)
 <br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalil-hamidani&show_icons=true&locale=en&layout=compact"></p>
 
 ---
 <!-- Feel free to visit my website **[]()** to explore some of my recent **projects** and find more about me. -->
