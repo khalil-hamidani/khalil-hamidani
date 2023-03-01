@@ -30,5 +30,5 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 then feel free to **contact** me on my [Linkedin](www.linkedin.com/in/khalil-hamidani-b77a94217) profile.
 
 [![](https://visitcount.itsvg.in/api?id=khalil-hamidani&icon=0&color=0)](https://visitcount.itsvg.in)
----
+----
 
