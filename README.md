@@ -13,7 +13,7 @@
  [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
  [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=8ybW48rKBME)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=khalil-hamidani&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalil-hamidani&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-hamidani&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
