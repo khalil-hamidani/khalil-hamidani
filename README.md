@@ -12,7 +12,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
  [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.youtube.com/watch?v=8ybW48rKBME)
  [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=8ybW48rKBME)
-
+ 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=khalil-hamidani&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalil-hamidani&theme=react&hide_border=false)<br/>
